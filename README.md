@@ -1,4 +1,5 @@
-# Flask Azure Insights Lab
+# Flask Azure Insights Lab — Simulating Migration & Monitoring
+
 
 This project demonstrates a simple Flask API integrated with Azure Application Insights using OpenCensus.  
 It logs custom messages and traces all incoming requests automatically.
