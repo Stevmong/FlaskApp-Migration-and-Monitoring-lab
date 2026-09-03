@@ -62,9 +62,8 @@ Exceptions:
 kusto
 exceptions | order by timestamp desc
 
-##
-
-![Pipeline run screenshot](https://github.com/user-attachments/assets/175a0201-4058-4996-a05e-eb347158b7d8)
+```
+<img width="1871" height="863" alt="image" src="https://github.com/user-attachments/assets/175a0201-4058-4996-a05e-eb347158b7d8" />
 
 
 
