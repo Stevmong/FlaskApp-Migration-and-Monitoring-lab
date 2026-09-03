@@ -62,6 +62,9 @@ Exceptions:
 kusto
 exceptions | order by timestamp desc
 
+
+<img width="1871" height="863" alt="image" src="https://github.com/user-attachments/assets/83baf124-3a80-4492-97e5-ebb7b5e4da9b" />
+
 ## Final Summary — What This Lab Demonstrates
 
 This project is more than just a dummy Flask app. It shows how to connect a simple Python service to **Azure Application Insights** and use it as a playground for monitoring and migration concepts.
